@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+AsyncProductAPI/RequestDB.db
+AsyncProductAPI/RequestDB.db-shm
+AsyncProductAPI/RequestDB.db-wal
